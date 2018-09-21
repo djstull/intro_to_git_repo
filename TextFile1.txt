@@ -1,3 +1,7 @@
 first_file.txt
 
 Hello, I'm not a computer.
+Hello, I am a computer.
+My name is Computie!
+
+I love microchips!
